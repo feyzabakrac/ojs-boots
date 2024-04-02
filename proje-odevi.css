@@ -1,0 +1,62 @@
+
+*{
+    box-sizing: border-box;
+}
+
+#avatar1{
+    width: 200px;
+    margin-top: 5rem;
+}
+ #paragraf{
+   
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+    font: 2em sans-serif;
+    color: #2c3e50;
+ }
+ 
+#about{
+   font-size: 3rem;   
+   line-height: 2.5rem;
+   margin-top: 3%;
+   padding-top: 1.5rem;
+  
+}
+#navbar {
+    background-color:#2c3e50  ;
+    font-size: 1.25rem;
+    padding: 1.5rem;
+}
+.container{
+     ;
+
+}
+.paragraf2{
+    color: black;
+    font-size: 1.5rem;
+    padding: 1rem;
+    border: 2px solid white;
+    margin-bottom: 0;
+}
+
+.mavi{
+    background-color:
+    #45bc9c ;
+    margin-bottom: 3rem;
+}
+.about{
+    background-color:  #45bc9c ;
+    margin-bottom: 0; !important
+}
+
+#footer{
+    background-color: #2c3e50 ;
+   padding: 4rem;
+}
+.link-danger{
+    font-size: 2rem;
+   text-decoration-line: none;
+}
+.beyaz{
+    margin-bottom: 0rem;
+}

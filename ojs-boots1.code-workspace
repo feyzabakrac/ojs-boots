@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "ojs-boots",
+			"path": "."
+		},
+		{
+			"name": "proje-odevi",
+			"path": "bootstrap/proje-odevi"
+		},
+		{
+			"name": "css",
+			"path": "bootstrap/css"
+		},
+		{
+			"name": "js",
+			"path": "bootstrap/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proje-odevi"
+	}
+}
